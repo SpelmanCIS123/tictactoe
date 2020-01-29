@@ -15,14 +15,14 @@ You must be able to:
 - check for (announce) a winner.
 
 
-### Example: 
+### Example boards: 
 ['', '', '']<br/>
 ['', '', '']<br/>
 ['', '', '']<br/>
 <br/>
-['X', '', '']<br/>
-['', 'X', '']<br/>
-['', '', 'X']<br/>
+['X', '', 'O']<br/>
+['', 'X', 'O']<br/>
+['O', '', 'X']<br/>
 
 
 ### To submit: 
